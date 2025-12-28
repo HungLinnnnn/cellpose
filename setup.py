@@ -14,7 +14,13 @@ install_deps = [
     'imagecodecs',
     'roifile',
     'fill-voids',
-    'segment_anything'
+    'segment_anything',
+    'scikit-image',
+    'matplotlib',
+    'shapely',
+    'ultralytics-thop',
+    'ultralytics',
+    'pandas'
 ]
 
 image_deps = ['nd2', 'pynrrd']
