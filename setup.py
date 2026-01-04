@@ -20,7 +20,8 @@ install_deps = [
     'shapely',
     'ultralytics-thop',
     'ultralytics',
-    'pandas'
+    'pandas',
+    'scikit-learn',
 ]
 
 image_deps = ['nd2', 'pynrrd']
