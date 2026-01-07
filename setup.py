@@ -22,6 +22,8 @@ install_deps = [
     'ultralytics',
     'pandas',
     'scikit-learn',
+    'joblib',
+    'fastparquet'
 ]
 
 image_deps = ['nd2', 'pynrrd']
